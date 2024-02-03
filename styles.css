@@ -65,16 +65,14 @@ body {
 }
 
 .container-two {
-    padding: 1rem 20rem;
+    padding: 3rem 20rem;
     background-color: white;
 }
 
 .bbox-container {
     display: flex;
-    flex-wrap: wrap;
-    column-gap: 2.5rem;
-    justify-content: center;
-    flex-grow: 0;
+    justify-content: space-evenly;
+    gap: 20px;
 }
 
 .blue-box {
@@ -84,8 +82,12 @@ body {
     border-radius: 15px;
     height: 160px;
     width: 160px;
-    min-width: 0;
-    flex-shrink: 0;
+}
+
+.text {
+    width: 160px;
+    text-align: center;
+
 }
 
 .text-box {
