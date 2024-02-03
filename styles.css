@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
-    background-color: black;
+    background-color: #1F2937;
     margin: 0rem 3rem;
 }
 
@@ -45,7 +45,7 @@ body {
 
 .b1 {
     color: white;
-    background-color: blue;
+    background-color: #3882F6;
     border-radius: 10px;
     border-style: none;
     height: 40px;
@@ -56,7 +56,7 @@ body {
 }
 
 .right-side {
-    background-color: gray;
+    background-color: grey;
     display: flex;
     flex-grow: 1;
     justify-content: center;
@@ -79,7 +79,7 @@ body {
 
 .blue-box {
     border-style: solid;
-    border-color: blue;
+    border-color: #3882F6;
     border-width: medium;
     border-radius: 15px;
     height: 160px;
@@ -99,7 +99,7 @@ body {
 }
 
 .container-three {
-    background-color: grey;
+    background-color: #E5E7EB;
     text-align: left;
     font-size: 25px;
     font-style: italic;
@@ -112,7 +112,7 @@ body {
 }
 
 .action-box {
-    background-color: blue;
+    background-color: #3882F6;
     color: white;
     border-radius: 15px;
     display: flex;
@@ -136,7 +136,7 @@ body {
 
 .b2 {
     color: white;
-    background-color: blue;
+    background-color: #3882F6;
     border-radius: 10px;
     border-style: solid;
     border-color:  white;
@@ -177,8 +177,8 @@ h2 {
  }
 
  h4 {
-    font-size: 34px;
-    font-style: italic;
+    font-size: 36px;
+    font-style: light italic;
  }
 
  h5 {
